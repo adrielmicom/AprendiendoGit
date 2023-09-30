@@ -1,1 +1,5 @@
 Avanzando en la rama master. mientrass q otros arreglas el archivo 1 y 2
+
+¿ sE PUEDE SOBREESCRIBIR EL COMENTARIO DE UN COMMIT?
+Como no lo se, y me he equivocado, voy a hacer un nuevo commit 
+pooniendo q era la rama master
